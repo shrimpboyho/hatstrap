@@ -5,7 +5,7 @@ hatstrap
 
 Strapping up is very simple. Make sure you have Blender 2.66 or later.
 
-First make sure you have the Source SDK. [Click here to install it](steam://run/211).
+First make sure you have the Source SDK. Click ```Start > Run``` and enter this command to install it ```steam://run/211```.
 
 In Blender:
 - Select ```File > User Preferences```
